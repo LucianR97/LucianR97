@@ -1,7 +1,7 @@
 # Hola 👋 soy Luciano Rinaudo
 
 ### 🌱 Sobre mi:
-Sou un estudiante de **Tecnicatura en Desarrollo Web y Aplicaciones Digitales** de _Argentina_ entusiasmado por aprender
+Soy un estudiante de **Tecnicatura en Desarrollo Web y Aplicaciones Digitales** de _Argentina_ entusiasmado por aprender
 nuevas tecnologías y enfrentar desafíos en este campo en constante evolución. 
 
 <br>
