@@ -6,7 +6,7 @@ nuevas tecnologías y enfrentar desafíos en este campo en constante evolución.
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianR97&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianR97&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianR97&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
 
