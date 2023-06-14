@@ -1,4 +1,5 @@
-# Hola 👋 soy Luciano Rinaudo
+<h1 align= "center"> Hola 👋 soy Luciano Rinaudo</h1>
+<h2 align= "center"> Desarrollador Fullstack</h2>
 
 ### 🌱 Sobre mi:
 Soy un estudiante de **Tecnicatura en Desarrollo Web y Aplicaciones Digitales** de _Argentina_ entusiasmado por aprender
@@ -6,9 +7,13 @@ nuevas tecnologías y enfrentar desafíos en este campo en constante evolución.
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianR97&show_icons=true&theme=tokyonight)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LucianR97" alt="LucianR97" /></a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianR97&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucianR97&show_icons=true&locale=en&layout=compact" alt="LucianR97" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucianR97&show_icons=true&locale=en" alt="LucianR97" /></p>
 
 <br>
 
@@ -35,5 +40,9 @@ nuevas tecnologías y enfrentar desafíos en este campo en constante evolución.
 
 <br>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LucianR97&theme=dark" alt="LucianR97" /></p>
+
+<br>
+
 ### :iphone: Puedes contactarme por:
-- <a href="https://www.linkedin.com/in/luciano-nicolas-rinaudo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83146564/134292366-61b21a2b-d31c-4b98-921c-1b12c6a09aa8.png" alt="Luciano-Rinaudo" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/luciano-nicolas-rinaudo/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83146564/134292366-61b21a2b-d31c-4b98-921c-1b12c6a09aa8.png" alt="Luciano-Rinaudo" height="40" width="40" /></a>
