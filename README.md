@@ -11,9 +11,11 @@ nuevas tecnologías y enfrentar desafíos en este campo en constante evolución.
 
 <br>
 
+<section>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=LucianR97&show_icons=true&locale=en&layout=compact" alt="LucianR97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucianR97&show_icons=true&locale=en" alt="LucianR97" /></p>
+</section>
 
 <br>
 
