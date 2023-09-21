@@ -7,7 +7,8 @@ nuevas tecnologías y enfrentar desafíos en este campo en constante evolución.
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LucianR97" alt="LucianR97" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br>
 
